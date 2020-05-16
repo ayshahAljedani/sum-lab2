@@ -14,6 +14,6 @@ using namespace std;
 int main(int argc, char const *argv[]) {
 
     /*add code*/
-    cout << "Hello Git!!" << endl;
+    cout << "Hello Git!!" << endl; // print hello git
     return 0;
 }
